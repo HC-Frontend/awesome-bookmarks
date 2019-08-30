@@ -10,6 +10,8 @@ sidebar: auto
 - [overreacted](https://overreacted.io/) react Dan 的个人博客，更新频率很高
 - [DailyJS](https://medium.com/dailyjs)
 - [codeburst](https://codeburst.io/)
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) 阮老师出的东西还是值得一读的
+- [InfoQ](https://www.infoq.cn/topic/Front-end) 文章的质量比一般网站的高不少
 
 ## Github
 
@@ -73,6 +75,8 @@ sidebar: auto
 - [sm.ms](https://sm.ms/) 免费图床
 - [webpagetest](https://www.webpagetest.org/) 前端性能分析工具
 - [网络安全的教程](hacksplaining.com/lessons)
+- [Ananas Analytics Desktop](https://ananasanalytics.com/) 一站式 数据可视化
+- [“零宽” 长度的短网址服务](https://zws.im) 利用“零宽字符”来缩短 url，还支持统计
 
 ## 设计
 
@@ -111,6 +115,7 @@ sidebar: auto
 - [weird-fonts](https://github.com/beizhedenglong/weird-fonts) 将普通字母转化为 特殊 unicode
 - [snake](https://github.com/epidemian/snake) 在地址栏里面玩贪吃蛇
 - [zero-width-lib](https://github.com/yuanfux/zero-width-lib) 利用零宽度字符实现 隐形水印、加密信息分享、逃脱词匹配，很有创意
+- [abbreviations](https://www.abbreviations.com/) 查看一个简写是什么意思的网站
 
 ## 交互
 
@@ -129,6 +134,7 @@ sidebar: auto
 - [npx](https://egghead.io/courses/execute-npm-package-binaries-with-the-npx-package-runner) 教你怎么合理的使用 npx
 
 - [hacksplaining](https://www.hacksplaining.com/lessons) 网络安全学习网站
+- [mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) 移动 web 最佳实践
 
 ## 产品
 

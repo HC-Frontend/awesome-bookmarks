@@ -109,6 +109,8 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [grade](https://github.com/benhowdle89/grade) 一个可以根据你的 图片 调整底色的插件
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) 将字节转换成可以读的字符串，比如 1337 个字节，会显示成 1.34 KB
 - [runkit](https://runkit.com) 一个基于 node 的在线 playground
+- [chart.xkcd](https://github.com/timqian/chart.xkcd) 手绘风格的图表库
+- [pagemap](https://github.com/lrsjng/pagemap) Mini map for web pages 页面导航图
 
 ## Css && 动画
 
@@ -388,6 +390,8 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [overreacted](https://overreacted.io/) react Dan 的个人博客，更新频率很高
 - [DailyJS](https://medium.com/dailyjs)
 - [codeburst](https://codeburst.io/)
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) 阮老师出的东西还是值得一读的
+- [InfoQ](https://www.infoq.cn/topic/Front-end) 文章的质量比一般网站的高不少
 
 ## Github
 
@@ -451,6 +455,8 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [sm.ms](https://sm.ms/) 免费图床
 - [webpagetest](https://www.webpagetest.org/) 前端性能分析工具
 - [网络安全的教程](hacksplaining.com/lessons)
+- [Ananas Analytics Desktop](https://ananasanalytics.com/) 一站式 数据可视化
+- [“零宽” 长度的短网址服务](https://zws.im) 利用“零宽字符”来缩短 url，还支持统计
 
 ## 设计
 
@@ -489,6 +495,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [weird-fonts](https://github.com/beizhedenglong/weird-fonts) 将普通字母转化为 特殊 unicode
 - [snake](https://github.com/epidemian/snake) 在地址栏里面玩贪吃蛇
 - [zero-width-lib](https://github.com/yuanfux/zero-width-lib) 利用零宽度字符实现 隐形水印、加密信息分享、逃脱词匹配，很有创意
+- [abbreviations](https://www.abbreviations.com/) 查看一个简写是什么意思的网站
 
 ## 交互
 
@@ -507,6 +514,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [npx](https://egghead.io/courses/execute-npm-package-binaries-with-the-npx-package-runner) 教你怎么合理的使用 npx
 
 - [hacksplaining](https://www.hacksplaining.com/lessons) 网络安全学习网站
+- [mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) 移动 web 最佳实践
 
 ## 产品
 

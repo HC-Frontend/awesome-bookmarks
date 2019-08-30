@@ -66,6 +66,8 @@ sidebar: auto
 - [grade](https://github.com/benhowdle89/grade) 一个可以根据你的 图片 调整底色的插件
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) 将字节转换成可以读的字符串，比如 1337 个字节，会显示成 1.34 KB
 - [runkit](https://runkit.com) 一个基于 node 的在线 playground
+- [chart.xkcd](https://github.com/timqian/chart.xkcd) 手绘风格的图表库
+- [pagemap](https://github.com/lrsjng/pagemap) Mini map for web pages 页面导航图
 
 ## Css && 动画
 

@@ -64,7 +64,19 @@
 
 #### 2019.08.19
 
--[从图片优化说起](https://cjting.me/2019/07/29/image-optimization/)
+- [从图片优化说起](https://cjting.me/2019/07/29/image-optimization/)
+
+#### 2019.08.22
+
+- [大 BU 级别的"前后端分离"实践](https://juejin.im/post/5d50d5a85188252bae5b1f8f)
+
+#### 2019.08.28
+
+- [谈谈 Web 应用中的图片优化技巧](https://www.infoq.cn/article/gxV277O5ZZsR5w5er4pE)
+
+#### 2019.08.29
+
+- [招聘启事都要求 35 岁以下的，那 35 岁以后油腻中年人该去哪？](https://mp.weixin.qq.com/s/AXmXQye9_puIFVn_okTEPw)
 
 ## 待读
 
