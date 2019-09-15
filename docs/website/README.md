@@ -12,6 +12,7 @@ sidebar: auto
 - [codeburst](https://codeburst.io/)
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) 阮老师出的东西还是值得一读的
 - [InfoQ](https://www.infoq.cn/topic/Front-end) 文章的质量比一般网站的高不少
+- [鱼塘](https://www.printf520.com/hot.html) 划水网站 收集了很多网站 当天热门文章
 
 ## Github
 
@@ -77,6 +78,9 @@ sidebar: auto
 - [网络安全的教程](hacksplaining.com/lessons)
 - [Ananas Analytics Desktop](https://ananasanalytics.com/) 一站式 数据可视化
 - [“零宽” 长度的短网址服务](https://zws.im) 利用“零宽字符”来缩短 url，还支持统计
+- [hotjar](https://www.hotjar.com/) 用户调研 支持用户反馈 录屏 heatMap
+- [狼叔：如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
+- [独角兽公司榜单](https://dujiaoshou.io/) 感觉大家想去大公司的时候，可以看看排名
 
 ## 设计
 

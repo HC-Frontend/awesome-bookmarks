@@ -31,6 +31,10 @@ module.exports = {
         text: '文章',
         link: '/article/'
       },
+      {
+        text: '最近阅读',
+        link: '/article/read'
+      },
       // { text: '工具', link: 'https://google.com' },
       {
         text: '面试',

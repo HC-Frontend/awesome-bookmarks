@@ -85,6 +85,7 @@ sidebar: auto
 - [laxxx](https://github.com/alexfoxy/laxxx) 滚动特效库 轻量级 压缩完 2kb
 - [cssfx](https://cssfx.dev/) 优雅的 CSS 动画效果，开箱即用
 - [zdog](https://github.com/metafizzy/zdog) 3D engine 引擎
+- [leonsans](https://github.com/cmiscm/leonsans) 酷炫的 字体 动画 geometric sans-serif typeface made with code
 
 ## Vue
 
@@ -98,6 +99,7 @@ sidebar: auto
 - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) 基于 vue 的 谷歌统计封装
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) 基于 vue 的虚拟列表无限滚动
 - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) 页面龙骨 skeleton
+- [buefy](https://github.com/buefy/buefy) 适配移动端的 vue 组件库 看着还挺舒服的
 
 ## 实践库
 
@@ -338,3 +340,4 @@ sidebar: auto
 - [npm-check](https://github.com/dylang/npm-check) - 检测依赖升级情况，我会和 `yarn upgrade-interactive` 配合着用，主要用来检测冗余依赖。
 - [cpx](https://github.com/mysticatea/cpx) - 复制，支持 glob，并且可以 watch。
 - [onchange](https://github.com/Qard/onchange) - 监听文件变动然后做一些事。
+- [outline](https://github.com/outline/outline) 一个免费开源的库，能让你快速搭建自己的 wiki

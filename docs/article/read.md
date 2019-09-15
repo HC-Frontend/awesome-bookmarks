@@ -1,5 +1,7 @@
 ## 值得一读的好文
 
+这里记录了一些，自己平时看过的好文章，方便日后回顾。
+
 #### 2019.05.13
 
 - [拼多多为什么崛起？这是目前解读最深刻的一篇](https://mp.weixin.qq.com/s/nuagQDITe6CdKoHeD3w71g)
@@ -77,6 +79,22 @@
 #### 2019.08.29
 
 - [招聘启事都要求 35 岁以下的，那 35 岁以后油腻中年人该去哪？](https://mp.weixin.qq.com/s/AXmXQye9_puIFVn_okTEPw)
+
+#### 2019.09.02
+
+- [狼叔：如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
+
+#### 2019.09.04
+
+- [美团张川：做了 8 年平台，我总结了平台的 5 道坎](https://36kr.com/p/5238184)
+
+#### 2019.09.15
+
+- [从一次性能优化看 Vue 的一个“feature”](https://juejin.im/post/5d7cc1966fb9a06b211717df)
+
+- [总结几点“上不得台面”的技术领导经验](https://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg==&mid=2650007280&idx=1&sn=88f481dd660b5e0a7d087033e42b4f7a&)
+
+- [剑桥博士：为何中国肯下血本在西方不做的亏本买卖上](https://finance.sina.cn/china/gncj/2019-05-31/detail-ihvhiqay2662671.d.html)
 
 ## 待读
 

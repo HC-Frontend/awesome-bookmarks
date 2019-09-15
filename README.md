@@ -128,6 +128,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [laxxx](https://github.com/alexfoxy/laxxx) 滚动特效库 轻量级 压缩完 2kb
 - [cssfx](https://cssfx.dev/) 优雅的 CSS 动画效果，开箱即用
 - [zdog](https://github.com/metafizzy/zdog) 3D engine 引擎
+- [leonsans](https://github.com/cmiscm/leonsans) 酷炫的 字体 动画 geometric sans-serif typeface made with code
 
 ## Vue
 
@@ -141,6 +142,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) 基于 vue 的 谷歌统计封装
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) 基于 vue 的虚拟列表无限滚动
 - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) 页面龙骨 skeleton
+- [buefy](https://github.com/buefy/buefy) 适配移动端的 vue 组件库 看着还挺舒服的
 
 ## 实践库
 
@@ -381,6 +383,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [npm-check](https://github.com/dylang/npm-check) - 检测依赖升级情况，我会和 `yarn upgrade-interactive` 配合着用，主要用来检测冗余依赖。
 - [cpx](https://github.com/mysticatea/cpx) - 复制，支持 glob，并且可以 watch。
 - [onchange](https://github.com/Qard/onchange) - 监听文件变动然后做一些事。
+- [outline](https://github.com/outline/outline) 一个免费开源的库，能让你快速搭建自己的 wiki
 
 # 网站
 
@@ -392,6 +395,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [codeburst](https://codeburst.io/)
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) 阮老师出的东西还是值得一读的
 - [InfoQ](https://www.infoq.cn/topic/Front-end) 文章的质量比一般网站的高不少
+- [鱼塘](https://www.printf520.com/hot.html) 划水网站 收集了很多网站 当天热门文章
 
 ## Github
 
@@ -457,6 +461,9 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [网络安全的教程](hacksplaining.com/lessons)
 - [Ananas Analytics Desktop](https://ananasanalytics.com/) 一站式 数据可视化
 - [“零宽” 长度的短网址服务](https://zws.im) 利用“零宽字符”来缩短 url，还支持统计
+- [hotjar](https://www.hotjar.com/) 用户调研 支持用户反馈 录屏 heatMap
+- [狼叔：如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
+- [独角兽公司榜单](https://dujiaoshou.io/) 感觉大家想去大公司的时候，可以看看排名
 
 ## 设计
 
