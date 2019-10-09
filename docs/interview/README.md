@@ -28,6 +28,8 @@
 
 https://github.com/forthealllight/blog/issues
 
+[reverse-interview 反向面试](https://github.com/yifeikong/reverse-interview-zh)
+
 想成为一个好的前端工程师，光有强大的编程能力是远远不够的，还有很多软知识需要知道。
 
 学会与人沟通。

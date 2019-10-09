@@ -215,7 +215,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [grpc-web](https://github.com/grpc/grpc-web) - 前端直连 gRPC 服务
 - [node-fetch](https://github.com/bitinn/node-fetch) - node 环境下轻量级 fetch 请求库
 - [ink](https://github.com/vadimdemedes/ink) 是一个 React 的命令行渲染器，命令行界面可以像写页面那么写了
-- [strapi](https://github.com/strapi/strapi/) 开源的解决方案来创建、部署和管理自己的 API
+- [strapi](https://github.com/strapi/strapi/) 开源的解决方案来创建、部署和管理自己的 API，通过图形化界面进行操作
 - [listr](https://github.com/SamVerschueren/listr) Terminal task list
 - [dotenv](https://github.com/motdotla/dotenv) 通过.env 设置环境部变量 vue-cli 也依赖它
 - [why-is-node-running](https://github.com/mafintosh/why-is-node-running) 查看 node 为什么在运行
@@ -464,6 +464,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [hotjar](https://www.hotjar.com/) 用户调研 支持用户反馈 录屏 heatMap
 - [狼叔：如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
 - [独角兽公司榜单](https://dujiaoshou.io/) 感觉大家想去大公司的时候，可以看看排名
+- [中国传统颜色手册](https://colors.ichuantong.cn/)
 
 ## 设计
 

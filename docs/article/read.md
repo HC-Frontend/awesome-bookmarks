@@ -96,6 +96,22 @@
 
 - [剑桥博士：为何中国肯下血本在西方不做的亏本买卖上](https://finance.sina.cn/china/gncj/2019-05-31/detail-ihvhiqay2662671.d.html)
 
+#### 2019.09.16
+
+[Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+
+#### 2019.09.29
+
+[说一说程序员的职业规划](http://losergogogo.com/article/1565256150386)
+
+#### 2019.10.05
+
+[视频方向的团队需要面临哪些问题](https://weibo.com/tv/v/Ia7aJfBZA?fid=1034:4424106444052291)
+
+#### 2019.10.07
+
+[自私的基因，颠覆你对生命的认知](https://www.bilibili.com/video/av49769417?t=67)
+
 ## 待读
 
 https://juejin.im/post/5cde316f6fb9a07ed9118f01

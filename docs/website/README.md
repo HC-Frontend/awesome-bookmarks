@@ -81,6 +81,7 @@ sidebar: auto
 - [hotjar](https://www.hotjar.com/) 用户调研 支持用户反馈 录屏 heatMap
 - [狼叔：如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
 - [独角兽公司榜单](https://dujiaoshou.io/) 感觉大家想去大公司的时候，可以看看排名
+- [中国传统颜色手册](https://colors.ichuantong.cn/)
 
 ## 设计
 
